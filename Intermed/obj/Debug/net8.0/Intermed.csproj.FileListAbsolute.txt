@@ -1,0 +1,14 @@
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\bin\Debug\net8.0\Intermed.exe
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\bin\Debug\net8.0\Intermed.deps.json
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\bin\Debug\net8.0\Intermed.runtimeconfig.json
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\bin\Debug\net8.0\Intermed.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\bin\Debug\net8.0\Intermed.pdb
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.AssemblyInfoInputs.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.AssemblyInfo.cs
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.csproj.CoreCompileInputs.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\refint\Intermed.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.pdb
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\Intermed.genruntimeconfig.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Intermed\Intermed\obj\Debug\net8.0\ref\Intermed.dll
